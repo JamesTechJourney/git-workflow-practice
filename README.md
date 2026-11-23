@@ -1,6 +1,6 @@
 # git-workflow-practice
 
-Project status: Feature branch update.
+Project status: Feature branch version.
 
 Developer: Local Developer
 
