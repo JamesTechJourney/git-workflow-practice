@@ -1,6 +1,6 @@
 # git-workflow-practice
 
-Project status: Feature branch version.
+Project status: Feature branch and main branch changes merged successfully.
 
 Developer: Local Developer
 
