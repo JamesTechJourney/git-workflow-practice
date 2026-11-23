@@ -1,2 +1,7 @@
 # git-workflow-practice
-Learning Git commands and merge conflicts
+
+Project status: Feature branch update.
+
+Developer: Local Developer
+
+This change was made in the feature branch.
