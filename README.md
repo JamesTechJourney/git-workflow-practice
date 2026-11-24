@@ -1,7 +1,20 @@
-# git-workflow-practice
+# Git Workflow Practice
 
-Project status: Feature branch and main branch changes merged successfully.
+## Project Information
 
-Developer: Local Developer
+Project: Git Workflow Practice
 
-This change was made in the feature branch.
+Developer: James George
+
+Status: Feature branch development
+
+## Features
+
+- Git branch management
+- Code modifications
+- Commit changes
+- Push changes to GitHub
+- Merge branches
+- Resolve merge conflicts
+
+This update was made in the feature branch.
